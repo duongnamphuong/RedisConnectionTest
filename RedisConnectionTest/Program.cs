@@ -8,6 +8,7 @@ namespace RedisConnectionTest
         private static void Main(string[] args)
         {
             var program = new Program();
+
             //var start = DateTime.Now;
             //Console.WriteLine("Saving random data in cache");
             //program.SaveBigData();
