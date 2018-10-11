@@ -8,8 +8,11 @@ namespace RedisConnectionTest
         private static void Main(string[] args)
         {
             var program = new Program();
+            //var start = DateTime.Now;
             //Console.WriteLine("Saving random data in cache");
             //program.SaveBigData();
+            //var end = DateTime.Now;
+            //Console.WriteLine("Time span: {0}", (end - start).TotalMilliseconds);
 
             //Console.WriteLine("Display all keys");
             //program.ViewKeys();
